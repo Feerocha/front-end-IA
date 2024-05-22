@@ -1,2 +1,2 @@
-# front-end-IA
+# front IA
  Projeto ParcerIA
